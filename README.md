@@ -15,7 +15,7 @@ Primer:
 4. [Linear Recurrent Units for Sequential Recommendation](https://arxiv.org/pdf/2310.02367.pdf)  
 Primer:
 
-5. [User Behavior Enriched Temporal Knowledge Graph for Sequential Recommendation]()
+5. [User Behavior Enriched Temporal Knowledge Graph for Sequential Recommendation](https://holdenhu.github.io/publications/)
   
 Primer:
 
@@ -24,7 +24,6 @@ Primer:
 Primer:
 
 7. [Intent Contrastive Learning with Cross Subsequences for Sequential Recommendation](https://arxiv.org/pdf/2310.14318)
-
 
 Primer:
 
@@ -43,7 +42,7 @@ Primer:
 Primer:
 
     
-11. [PEACE: Prototype lEarning Augmented transferable framework for Cross-domain Recommendation](https://arxiv.org/pdf/2312.01916.pdf)
+11. [PEACE: Prototype lEarning Augmented transferable framework for Cross-domain rEcommendation](https://arxiv.org/pdf/2312.01916.pdf)
 
 Primer:
 
@@ -99,3 +98,88 @@ Primer:
 22. [Interact with the Explanations: Causal Debiased Explainable Recommendation System](https://shuaili8.github.io/publications.html)
 
 Primer:
+
+23. [Global Heterogeneous Graph and Target Interest Denoising for Multi-behavior Sequential Recommendation]()
+
+Primer:
+
+24. [MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems](https://dgliu.github.io)
+
+Primer:
+
+25. [MADM: A Model-agnostic Denoising Module for Graph-based Social Recommendation]()
+
+Primer:
+
+26. [CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process]()
+
+Primer:
+
+27. [Inverse Learning with Extremely Sparse Feedback for Recommendation](https://arxiv.org/pdf/2311.08302)
+
+Primer:
+
+28. [Contextual MAB Oriented Embedding Denoising for Sequential Recommendation](https://www.lichenliang.net)
+
+Primer:
+
+29. [Mixed Attention Network for Cross-domain Sequential Recommendation](https://arxiv.org/pdf/2311.08272)
+
+Primer:
+
+30. [Knowledge Graph Context-Enhanced Diversified Recommendation](https://arxiv.org/pdf/2310.13253)
+
+Primer:
+
+31. [Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights](https://arxiv.org/pdf/2305.15036)
+
+Primer:
+
+32. [Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation](https://wyhwhy.github.io)
+
+Primer:
+
+33. [AutoPooling: Automated Pooling Search for Multi-valued Features in Recommendations]()
+
+Primer:
+
+34. [C^2DR: Robust Cross-Domain Recommendation based on Causal Disentanglement]()
+
+Primer:
+
+35. [RecJPQ: Training Large-Catalogue Sequential Recommenders](https://arxiv.org/pdf/2312.06165)
+
+Primer:
+
+
+36. [On the Effectiveness of Unlearning in Session-Based Recommendation](https://arxiv.org/pdf/2312.14447.pdf)
+
+Primer:
+
+37. [Proxy-based Item Representation for Attribute and Context-aware Recommendation](https://arxiv.org/pdf/2312.06145)
+
+Primer:
+
+38. [IncMSR: An Incremental Learning Approach for Multi-Scenario Recommendation]()
+
+Primer:
+
+39. [Deep Evolutional Instant Interest Network for CTR Prediction in Trigger-Induced Recommendation]()
+
+Primer:
+
+
+40. [User Consented Federated Recommender System Against Personalized Attribute Inference Attack]()
+
+Primer:
+
+41. [Neural Kalman Filtering for Robust Temporal Recommendation]()
+
+Primer:
+
+42. [ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models](https://arxiv.org/abs/2305.06566)
+
+Primer:
+
+
+
