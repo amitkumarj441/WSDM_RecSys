@@ -179,7 +179,7 @@ Primer:
 
 42. [ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models](https://arxiv.org/abs/2305.06566)
 
-Primer:
+Primer: In the realm of information retrieval, personalized content-based recommender systems serve as indispensable tools, aiding users in navigating the extensive content available on platforms such as daily news websites and book recommendation services. Despite their prevalence, existing recommenders encounter challenges in comprehending item content. This study delves into the exploration of open- and closed-source Large Language Models (LLMs) to augment content-based recommendations. Utilizing deep layers of open-source LLMs enhances content representation at the embedding level, while closed-source LLMs benefit from prompting techniques at the token level during training. Empirical experiments showcase the effectiveness of both LLM types and underscore their synergistic relationship, yielding a substantial relative improvement of up to 19.32% compared to existing state-of-the-art models. These outcomes underscore the significant potential of both open- and closed-source LLMs in elevating content-based recommendation systems. The provided ONCE framework, designed to mitigate the limitations of content-based recommendation systems, demonstrates promising applicability beyond news and book domains. This research endeavors to stimulate further investigation and contribute to the advancement of more proficient recommendation systems grounded in large language models.
 
 
 
