@@ -169,7 +169,7 @@ Primer:
 Primer:
 
 
-40. [User Consented Federated Recommender System Against Personalized Attribute Inference Attack]()
+40. [User Consented Federated Recommender System Against Personalized Attribute Inference Attack](https://arxiv.org/pdf/2312.16203)
 
 Primer:
 
