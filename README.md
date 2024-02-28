@@ -15,7 +15,7 @@ Primer:
 4. [Linear Recurrent Units for Sequential Recommendation](https://arxiv.org/pdf/2310.02367.pdf)  
 Primer:
 
-5. [User Behavior Enriched Temporal Knowledge Graph for Sequential Recommendation](https://holdenhu.github.io/publications/)
+5. [User Behavior Enriched Temporal Knowledge Graph for Sequential Recommendation]([https://holdenhu.github.io/publications/](https://www.comp.nus.edu.sg/~kanmy/papers/TKGSRec__WSDM__CameraReady_17_Dec__8_2_pages_.pdf))
   
 Primer:
 
@@ -37,7 +37,7 @@ Primer:
 Primer:
 
 
-10. [Dynamic Sparse Learning: A Novel Paradigm for Efficient Recommendation]()
+10. [Dynamic Sparse Learning: A Novel Paradigm for Efficient Recommendation](https://arxiv.org/pdf/2402.02855)
 
 Primer:
 
@@ -111,7 +111,7 @@ Primer:
 
 Primer:
 
-26. [CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process]()
+26. [CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process](https://arxiv.org/pdf/2401.12732)
 
 Primer:
 
