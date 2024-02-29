@@ -164,7 +164,7 @@ Primer:
 
 Primer:
 
-39. [Deep Evolutional Instant Interest Network for CTR Prediction in Trigger-Induced Recommendation]()
+39. [Deep Evolutional Instant Interest Network for CTR Prediction in Trigger-Induced Recommendation](https://arxiv.org/abs/2401.07769)
 
 Primer:
 
