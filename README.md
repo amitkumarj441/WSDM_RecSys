@@ -1,4 +1,4 @@
-# Paper highlights from WSDM 2024 on Recommendation Systems
+## Paper highlights from WSDM 2024 on Recommendation Systems
 Notes on the latest work from [WSDM 2024](https://www.wsdm-conference.org/2024) in the area of recommender systems 
 
 ➡️ __Only include details of papers that have preprints available online.__
@@ -181,6 +181,11 @@ Primer:
 
 Primer: Addressing the limitations of existing content-based recommender systems, this paper presents the ONCE framework, which leverages both open- and closed-source large language models (LLMs) to significantly enhance recommendation performance. Their findings demonstrate that combining finetuning on open-source LLMs with prompting-based data augmentation on closed-source models yields substantial improvements, with relative gains reaching up to 19.32% compared to state-of-the-art models. These results highlight the immense potential of LLMs in content-based recommendation and hold significant implications for online content platforms. Notably, the ONCE framework extends beyond news and book recommendation, demonstrating its applicability to diverse domains.
 
+# 
 
+1. [Review-Based Hyperbolic Cross-Domain Recommendation](https://arxiv.org/pdf/2403.20298) - Old version of this paper on Arxiv
+2. [Large Language Model driven Policy Exploration for Recommender Systems](https://eprints.gla.ac.uk/340195/)
+3. [Combating Heterogeneous Model Biases in Recommendations via Boosting]()
+4. [Teach Me How to Denoise: a Universal Framework for Denoising Multi-modal Recommender Systems via Guided Calibration]()
 
 
