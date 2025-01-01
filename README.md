@@ -181,7 +181,7 @@ Primer:
 
 Primer: Addressing the limitations of existing content-based recommender systems, this paper presents the ONCE framework, which leverages both open- and closed-source large language models (LLMs) to significantly enhance recommendation performance. Their findings demonstrate that combining finetuning on open-source LLMs with prompting-based data augmentation on closed-source models yields substantial improvements, with relative gains reaching up to 19.32% compared to state-of-the-art models. These results highlight the immense potential of LLMs in content-based recommendation and hold significant implications for online content platforms. Notably, the ONCE framework extends beyond news and book recommendation, demonstrating its applicability to diverse domains.
 
-# 
+## Paper highlights from WSDM 2025 on Recommendation Systems
 
 1. [Review-Based Hyperbolic Cross-Domain Recommendation](https://arxiv.org/pdf/2403.20298) - Old version of this paper on Arxiv
 2. [Large Language Model driven Policy Exploration for Recommender Systems](https://eprints.gla.ac.uk/340195/)
